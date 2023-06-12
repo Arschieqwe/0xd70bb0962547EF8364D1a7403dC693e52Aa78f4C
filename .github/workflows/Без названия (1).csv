@@ -1,0 +1,25 @@
+{
+  "invalidCustomNetwork": {
+    "state": "CLOSED",
+    "networkName": ""
+  },
+  "unconnectedAccount": {
+    "state": "CLOSED"
+  },
+  "activeTab": {
+    "id": 1948916512,
+    "title": "Polygon Transaction Hash (Txhash) Details | PolygonScan",
+    "origin": "https://polygonscan.com",
+    "protocol": "https:",
+    "url": "https://polygonscan.com/tx/0xd07a25932980b822c5723fc5f156819f8a64fb037efc9d98cbcd440d0cf142c2"
+  },
+  "metamask": {
+    "isInitialized": true,
+    "isUnlocked": true,
+    "isAccountMenuOpen": false,
+    "isNetworkMenuOpen": false,
+    "identities": {
+      "0xd70bb0962547ef8364d1a7403dc693e52aa78f4c": {
+        "address": "0xd70bb0962547ef8364d1a7403dc693e52aa78f4c",
+        "lastSelected": 1683723202368,
+        "name": "Acc
